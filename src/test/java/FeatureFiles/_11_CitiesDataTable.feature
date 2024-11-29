@@ -22,7 +22,7 @@ Feature: DataTable Functionality
 
 
     And User sending the keys in Dialog
-      | name | city33tttsd23 |
+      | name | city33t943211sd23 |
 
 
     And Click on the Element in Dialog
@@ -31,7 +31,7 @@ Feature: DataTable Functionality
     Then Success message should be displayed
 
     And user delete Element from dialog
-      | citysd23 |
+      | city33t943211sd23 |
 
     Then Success message should be displayed
 
